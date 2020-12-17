@@ -9,20 +9,20 @@ Endereço de rede é o endereço que define qual a rede que o computador está c
 
 Endereço de Broadcast é o endereço utilizado para comunicar com todas as máquinas de uma determinada rede. Ele é sempre o último endereço na rede.
 
-Vou botar um endereço de IP e uma máscara de rede como exemplo abaixo:
+# Vou botar um endereço de IP e uma máscara de rede como exemplo abaixo:
 **IP** : 192.168.0.9
 **Máscara de Rede** : 255.255.255.0
 
 O 255 é = (igual) a (REDE) **||**
 O 0 (zero) é = (igual) a (HOST) mais simplicado (computador/máquina conectada na rede)
 
-**1) Etapa** para descobrir Endereço de Rede.
+# **1) Etapa** para descobrir Endereço de Rede.
 
 - Recortar 255 da máscara de rede.
 
 Cortando ele ficará .0
 
-**2) Etapa** Inserir o valor do endereço IP que está logo acima no exemplo referente ao intervalo após recortar a máscara.
+# **2) Etapa** Inserir o valor do endereço IP que está logo acima no exemplo referente ao intervalo após recortar a máscara.
 
 - 192.168.0.0 = Endereço de Rede
 
