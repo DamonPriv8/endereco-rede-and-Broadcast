@@ -38,3 +38,4 @@ Pegar o endereço de rede e recortar os "0" (zero) originais da máscara de rede
 # **2) Etapa** Pegar o intervalo e inserir "255" nos espaços que foram recortados.
 
 192.168.0.255 = **Endereço de Broadcast** <hr>
+<img align="right" alt="GIF" src="https://images.app.goo.gl/dTpZgg8yArmZqJu89"/>
