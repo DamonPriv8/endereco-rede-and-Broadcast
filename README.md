@@ -16,7 +16,7 @@ Vou botar um endereço de IP e uma máscara de rede como exemplo abaixo:
 O 255 é = (igual) a (REDE) **||**
 O 0 (zero) é = (igual) a (HOST) mais simplicado (computador/máquina conectada na rede)
 
-**1)** Passo para descobrir Endereço de Rede.
+**1) Passo** para descobrir Endereço de Rede.
 
 - Recortar 255 da máscara de rede.
 
