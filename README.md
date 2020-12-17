@@ -1,4 +1,4 @@
-# Endereço Redes and Broadcast
+# Descobrir Endereço de Rede and Endereço Broadcast
 
 Olá, me chamo Damon. 👋
 Tenho 17 anos, atualmente estou estudando redes! 📡
