@@ -24,7 +24,7 @@ Cortando ele ficará .0 <hr>
 
 # **2 Etapa** - Inserir o valor do endereço IP que está logo acima no exemplo referente ao intervalo após recortar a máscara.
 
-192.168.0.0 = Endereço de Rede
+192.168.0.0 = **Endereço de Rede**
 
 Logo abaixo, vamos descobrir o endereço de Broadcast 👇🏻 
 
