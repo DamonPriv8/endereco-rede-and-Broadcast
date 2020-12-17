@@ -24,7 +24,7 @@ Cortando ele ficará .0
 
 2) Inserir o valor do endereço IP que está logo acima no exemplo referente ao intervalo após recortar a máscara.
 
-192.168.0.0 = Endereço de Rede
+- 192.168.0.0 = Endereço de Rede
 
 
 Logo abaixo, vamos descobrir o endereço de Broadcast 👇🏻
@@ -38,4 +38,4 @@ Endereço de Rede recortado = 192.168.0. (repare que foi recortado só o 0 origi
 
 2) Pegar o intervalo e inserir "255" nos espaços que foram recortados.
 
-192.168.0.255 = Endereço de Broadcast
+- 192.168.0.255 = **Endereço de Broadcast**
