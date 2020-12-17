@@ -33,9 +33,9 @@ Logo abaixo, vamos descobrir o endereço de Broadcast 👇🏻
 
 - Pegar o endereço de rede e recortar os "0" (zero) originais da máscara de rede.
 
-Endereço de Rede = 192.168.0.0
-Endereço de Rede recortado = 192.168.0. (repare que foi recortado só o 0 original)
+**Endereço de Rede** = 192.168.0.0
+**Endereço de Rede recortado** = 192.168.0. (repare que foi recortado só o 0 original)
 
 2) Pegar o intervalo e inserir "255" nos espaços que foram recortados.
 
-- 192.168.0.255 = **Endereço de Broadcast**
+- 192.168.0.255 = **__Endereço de Broadcast__**
