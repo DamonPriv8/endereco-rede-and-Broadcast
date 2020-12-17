@@ -1,7 +1,7 @@
 # Descobrir Endereço de Rede and Endereço Broadcast
 
-<p align="center"> Olá, me chamo Damon. 👋 </p>
-Tenho 17 anos, atualmente estou estudando redes! 📡
+<p align="center"> Olá, me chamo Damon. 👋 
+Tenho 17 anos, atualmente estou estudando redes! 📡 </p>
 
 Irei ensinar a vocês nesse repositório como descobrir o endereço de rede e o endereço broadcast.
 
