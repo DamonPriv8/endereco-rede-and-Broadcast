@@ -8,7 +8,7 @@ Irei ensinar a vocês nesse repositório como descobrir o endereço de rede e o 
 Endereço de rede é o endereço que define qual a rede que o computador está conectado.
 
 Endereço de Broadcast é o endereço utilizado para comunicar com todas as máquinas de uma determinada rede. Ele é sempre o último endereço na rede.
-
+<hr>
 # Vou botar um endereço de IP e uma máscara de rede como exemplo abaixo:
 **IP** : 192.168.0.9 <br>
 **Máscara de Rede** : 255.255.255.0
