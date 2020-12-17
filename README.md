@@ -22,13 +22,13 @@ O 0 (zero) é = (igual) a (HOST) mais simplicado (computador/máquina conectada 
 
 Cortando ele ficará .0
 
-# **2) Etapa** Inserir o valor do endereço IP que está logo acima no exemplo referente ao intervalo após recortar a máscara.
+# **2 Etapa** - Inserir o valor do endereço IP que está logo acima no exemplo referente ao intervalo após recortar a máscara.
 
 - 192.168.0.0 = Endereço de Rede
 
 Logo abaixo, vamos descobrir o endereço de Broadcast 👇🏻
 
-# **1) Etapa** para descobrir o Endereço de Broadcast
+# **1 Etapa** - Para descobrir o Endereço de Broadcast
 
 - Pegar o endereço de rede e recortar os "0" (zero) originais da máscara de rede.
 
