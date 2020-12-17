@@ -38,4 +38,4 @@ Pegar o endereço de rede e recortar os "0" (zero) originais da máscara de rede
 # **2) Etapa** Pegar o intervalo e inserir "255" nos espaços que foram recortados.
 
 192.168.0.255 = **Endereço de Broadcast** <hr>
-<img align="right" alt="GIF" src="https://images.app.goo.gl/dTpZgg8yArmZqJu89"/>
+<img align="right" alt="GIF" src="https://cdn.discordapp.com/attachments/788273366913908756/788273521028759592/68747470733a2f2f692e70696e696d672e636f6d2f6f726967696e616c732f66662f37312f37622f66663731376238396463.gif"/>
