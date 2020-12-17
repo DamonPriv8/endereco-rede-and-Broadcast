@@ -16,7 +16,7 @@ Endereço de Broadcast é o endereço utilizado para comunicar com todas as máq
 O 255 é = (igual) a (REDE) <br>
 O 0 (zero) é = (igual) a (HOST) mais simplicado (computador/máquina conectada na rede)
 
-# **1) Etapa** para descobrir Endereço de Rede.
+# **1 Etapa** - Recorte da máscara de Rede
 
 - Recortar 255 da máscara de rede.
 
